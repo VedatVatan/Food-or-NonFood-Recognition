@@ -1,0 +1,5 @@
+Bu çalışmada GoogLeNet Pre-Trained modelini kullanarak bir görsel işleme uygulamasının ağırlığını ( modelini ) yapmış bulunuyorum.
+Bu Proje, okulumun bitirme projesiydi ve Machine Learning ana dalının alt dalı olan Deep Learning kullanılarak geliştirildi.
+Food-5K dataseti kullanılarak, yüklenen görsellere göre makine 'eğitildi', overfitting'ten kaçınılmak için epoch'lar üzerinde detaylıca denemeley yapıldı.
+Datasetinizi geliştirerek daha yüksek doğruluk sonucu alabileceğiniz bir ağırlık eğitebilirsiniz. Datasetinizi genişlettiğiniz durumlarda datasetinizi incelemeyi unutmayın.
+GoogLeNet tercih etmemin sebebi; diğer çalıştığım deep learning modelleri olan AlexNet, ResNet-50, VGG gibi modellere ve mimarilere göre en yüksek doğruluğu vermesiydi.
